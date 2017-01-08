@@ -10,6 +10,8 @@ namespace VersieBeheer
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Gaat het een beetje?");
+            Console.ReadKey();
         }
     }
 }
